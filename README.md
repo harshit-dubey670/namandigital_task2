@@ -17,6 +17,6 @@ This project demonstrates CRUD functionality, user authentication, and the abili
 - Concepts Used: 
   - OOPs (Encapsulation, Inheritance)  
   - Collections Framework  
-  - File Handling / Database Connectivity (optional depending on version)  
+  - File Handling   
 
   
